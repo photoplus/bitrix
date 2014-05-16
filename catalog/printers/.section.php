@@ -1,6 +1,0 @@
-<?
-$sSectionName = "Принтеры";
-$arDirProperties = Array(
-
-);
-?>

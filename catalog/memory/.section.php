@@ -1,6 +1,0 @@
-<?
-$sSectionName = "Память";
-$arDirProperties = Array(
-
-);
-?>
