@@ -3,6 +3,7 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("");?>
 
 
+
 <?
 
 $res = CIBlockElement::GetByID($_REQUEST["id"]);// $_REQUEST["id"] - ID элемента.
