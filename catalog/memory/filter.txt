@@ -1,0 +1,1 @@
+gb,tip_karty_pamyati,class

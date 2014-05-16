@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Фотоаппараты ";
+$arDirProperties = Array(
+
+);
+?>
