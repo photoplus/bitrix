@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Apple";
+$arDirProperties = Array(
+
+);
+?>

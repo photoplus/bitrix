@@ -1,0 +1,1 @@
+navigation,sensors,internet,flash,rec_video,fotokamera

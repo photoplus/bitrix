@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Принтеры";
+$arDirProperties = Array(
+
+);
+?>

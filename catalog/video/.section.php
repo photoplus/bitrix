@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Видеокамеры";
+$arDirProperties = Array(
+
+);
+?>
